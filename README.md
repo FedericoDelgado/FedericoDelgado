@@ -4,7 +4,7 @@
 
 ### Hi there 👋! My name is **Federico**, I'm a _FrontEnd developer_ <br> 
 I am currently studying at CoderHouse in the _BackEnd_ course to become a _Fullstack_ developer. <br>
-My best knowledges are in **React JS, Node JS, HTML5, CSS3, JavaScript (ES6), SASS, Git, Bootstrap, Firebase, JSON, Express** <br>
+My best knowledges are in **React JS, Node JS, HTML5, CSS3, JavaScript (ES6), SASS, Git, Bootstrap, Firebase, JSON, Express**. <br>
 I currently work as a frontend developer in an Argentine company, fixar.com.ar <br>
 Even so, i am very open to do some volunteer work to reinforce my knowledge and gain more experience as a developer, so do not hesitate in contact me if you have any questions or proposals.
 
