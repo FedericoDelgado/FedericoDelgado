@@ -1,12 +1,8 @@
-### Hi there 👋
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
-**Federico Delgado Mudir/**
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-
-Hello! My name is **Federico**, I'm a _FrontEnd developer_ <br> 
+### Hi there 👋! My name is **Federico**, I'm a _FrontEnd developer_ <br> 
 I am currently studying at CoderHouse in the _BackEnd_ course to become a _Fullstack_ developer.<br>
 My best knowledges are in **React JS, Node JS, HTML5, CSS3, JavaScript (ES6), SASS, Git, Bootstrap, Firebase, JSON, Express**
 I currently work as a frontend developer in an Argentine company, fixar.com.ar
